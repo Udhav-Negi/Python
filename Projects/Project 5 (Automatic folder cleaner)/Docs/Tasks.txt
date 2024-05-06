@@ -1,0 +1,4 @@
+Main Tasks 
+1 Adding a function to check whether the arduino is connected 
+	Subtasks for this task
+	1 Check arduino is connected to which port
